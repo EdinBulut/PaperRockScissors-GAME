@@ -1,1 +1,1 @@
-# PaperRockScissors-GAME
+GAME Paper/Rock/Scissors
